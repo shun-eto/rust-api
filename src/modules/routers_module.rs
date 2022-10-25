@@ -1,5 +1,5 @@
-pub struct RouterModule {}
+pub struct RoutersModule {}
 
-impl RouterModule {
+impl RoutersModule {
     pub fn new() {}
 }
